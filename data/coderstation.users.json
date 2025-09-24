@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "68883d7cd7738c6b7cf2a9fd"
+  },
+  "loginId": "yang",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/uploads/a17555704929012272.jpg",
+  "nickname": "yangg",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1753759100642",
+  "lastLoginDate": "1753759100642",
+  "points": 108,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68884085d7738c6b7cf2aa04"
+  },
+  "loginId": "yyyy",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/uploads/å¾®ä¿¡å¾ç_2023072614181117556597067598810.jpg",
+  "nickname": "yyyy",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1753759877600",
+  "lastLoginDate": "1753759877600",
+  "points": 144,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "689db71ff1aa75cef7bc077a"
+  },
+  "loginId": "coco",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/avatar/scare.gif",
+  "nickname": "coco",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1755166495414",
+  "lastLoginDate": "1755166495414",
+  "points": 100,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "689dc71cf839f66fab622aba"
+  },
+  "loginId": "lily",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/uploads/317551705704359424.jpg",
+  "nickname": "kiki",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1755170588049",
+  "lastLoginDate": "1755170588049",
+  "points": 168,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68a2df9ee6249cbd21888210"
+  },
+  "loginId": "Mimi",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/uploads/1317555045360557842.jpg",
+  "nickname": "Mimi",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1755504542514",
+  "lastLoginDate": "1755504542514",
+  "points": 100,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68a448760d5e2d8befeedb1e"
+  },
+  "loginId": "user1",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/avatar/looklook.png",
+  "nickname": "user1",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1755596918739",
+  "lastLoginDate": "1755596918739",
+  "points": 122,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68a4488c0d5e2d8befeedb28"
+  },
+  "loginId": "user2",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "avatar": "/static/uploads/1517555969578821444.jpg",
+  "nickname": "user2",
+  "mail": "",
+  "qq": "",
+  "wechat": "",
+  "intro": "",
+  "registerDate": "1755596940996",
+  "lastLoginDate": "1755596940996",
+  "points": 130,
+  "enabled": true
+}]

@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "634d7f557797638ec96fe2e4"
+  },
+  "loginId": "admin",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "nickname": "keke",
+  "avatar": "/static/uploads/617549984495307093.jpg",
+  "permission": 1,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "635648f955252911d6754fdb"
+  },
+  "loginId": "jinge",
+  "loginPwd": "4297f44b13955235245b2497399d7a93",
+  "nickname": "进哥",
+  "avatar": "/static/avatar/looklook.png",
+  "permission": 1,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "689b0c71e47017a321430810"
+  },
+  "loginId": "admin1",
+  "loginPwd": "4297f44b13955235245b2497399d7a93",
+  "nickname": "新增管理员",
+  "avatar": "/static/avatar/yeah.png",
+  "permission": 2,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "689b10dae47017a32143083f"
+  },
+  "loginId": "admin2",
+  "loginPwd": "e10adc3949ba59abbe56e057f20f883e",
+  "nickname": "keke",
+  "avatar": "/static/uploads/117549928572078406.jpg",
+  "permission": 1,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "689bfbe9cfbc8ae76eb0bfca"
+  },
+  "loginId": "admin3",
+  "loginPwd": "4297f44b13955235245b2497399d7a93",
+  "nickname": "新增管理员",
+  "avatar": "/static/avatar/666.png",
+  "permission": 2,
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68a2ddbbe6249cbd218881f6"
+  },
+  "loginId": "1",
+  "loginPwd": "4297f44b13955235245b2497399d7a93",
+  "nickname": "新增管理员",
+  "avatar": "/static/avatar/miao.png",
+  "permission": 2,
+  "enabled": true
+}]

@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "634d7f707797638ec96fe2e9"
+  },
+  "typeName": "HTML"
+},
+{
+  "_id": {
+    "$oid": "634d7fc47797638ec96fe2ee"
+  },
+  "typeName": "CSS"
+},
+{
+  "_id": {
+    "$oid": "634d7fcc7797638ec96fe2f1"
+  },
+  "typeName": "JS"
+},
+{
+  "_id": {
+    "$oid": "634d801e7797638ec96fe2f5"
+  },
+  "typeName": "jQuery"
+},
+{
+  "_id": {
+    "$oid": "634d80417797638ec96fe2f9"
+  },
+  "typeName": "Vue"
+},
+{
+  "_id": {
+    "$oid": "634d804d7797638ec96fe2fd"
+  },
+  "typeName": "React"
+},
+{
+  "_id": {
+    "$oid": "634d806d7797638ec96fe302"
+  },
+  "typeName": "前端工程化"
+},
+{
+  "_id": {
+    "$oid": "634d809b7797638ec96fe307"
+  },
+  "typeName": "Node.js"
+},
+{
+  "_id": {
+    "$oid": "634d81077797638ec96fe30c"
+  },
+  "typeName": "Go"
+},
+{
+  "_id": {
+    "$oid": "634e1b17386eea42f85fad04"
+  },
+  "typeName": "Java"
+},
+{
+  "_id": {
+    "$oid": "634e431a2fac4881713db242"
+  },
+  "typeName": "PHP"
+},
+{
+  "_id": {
+    "$oid": "6357e132d84d68f7b87e13a6"
+  },
+  "typeName": "Python"
+},
+{
+  "_id": {
+    "$oid": "6359eb5ca5f3673044ad9775"
+  },
+  "typeName": "数据库"
+}]

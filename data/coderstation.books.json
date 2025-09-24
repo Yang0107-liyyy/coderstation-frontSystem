@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "68a2a47ce6249cbd21888161"
+  },
+  "bookTitle": "响应式Web设计",
+  "bookPic": "/static/uploads/s292957111666837270431511717554893708704790.jpg",
+  "downloadLink": "https://pan.baidu.com/s/16Jp7eeXab6Gu8_IzDB0MKw?pwd=j71e",
+  "bookIntro": "<p><strong>内容介绍</strong></p><p><br></p><p>本书将当前Web 设计中热门的响应式设计技术与HTML5 和CSS3 结合起来，为读者全面深入地讲解了针对各种屏幕大小设计和开发现代网站的各种技术。书中不仅讨论了媒体查询、弹性布局、响应式图片，更将最新和最有用的HTML5 和CSS3 技术一并讲解，是学习最新Web 设计技术不可多得的佳作。</p><p><br></p><p><strong>作者介绍</strong></p><p><br></p><p>作者简介：</p><p><br></p><p>Ben Frain</p><p><br></p><p>Web开发者、图书作者、演讲者。从1996年开始从事Web设计与开发，目前是Bet365的高级前端工程师。另著有《Sass和Compass设计师指南》。</p><p><br></p><p>在从事Web开发之前，他曾是一名怀才不遇的（而且谦虚的）电视演员和科技记者，毕业于索尔福德大学媒体与表演专业。他写过四部（自认为）均被低估的剧本，且至今仍觉得有望卖出其中一部（尽管不像最初那么有信心了）。</p><p><br></p><p>工作之余，在身体和妻子都允许的情况下，他会玩一玩室内足球，或者跟两个儿子练练摔跤。个人网站www.benfrain.com，Twitter账号@benfrain。</p><p><br></p><p>译者简介：</p><p><br></p><p>本书译者均来自由月影领衔的奇虎360最大前端团队——奇舞团（75team）。</p><p><br></p><p>李松峰</p><p><br></p><p>资深技术翻译，译有《JavaScript高级程序设计》《简约至上：交互式设计四策略》等数十部技术和设计书籍，现为“奇舞团”高级开发工程师、《奇舞周刊》总编。</p><p><br></p><p>钟恒</p><p><br></p><p>360奇舞团前端工程师。</p>",
+  "scanNumber": 4,
+  "commentNumber": 1,
+  "onShelfDate": "1755489404962",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d7fc47797638ec96fe2ee"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dca0e6249cbd218881cc"
+  },
+  "bookTitle": "高性能MySQL（第二版）",
+  "bookPic": "/static/uploads/s41415931666837584885843117555037743736304.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1tVUcxo9id7RUTZgKjBxGgg?pwd=mfms",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>本书荣获2009年Jolt图书大奖，是不可多得的分享MySQL实用经验的图书。它不但可以帮助MySQL初学者提高使用技巧，更为有经验的MySQL DBA指出了开发高性能MySQL应用的途径。全书包含14章和4个附录，内容覆盖MySQL系统架构、设计应用技巧、SQL语句优化、服务器性能调优、系统配置管理和安全设置、监控分析，以及复制、扩展和备份/还原等主题，每一章的内容自成体系，适合各领域技术人员作选择性的阅读。</p><p><br></p><p>汇聚著名MySQL专家在实践中构建大型系统的多年经验。</p><p><br></p><p>剖析MySQL内部工作机制，指导读者MySQL开发出快速可靠的系统。</p><p><br></p><p>实例讲解MySQL实用又安全的高性能之路。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>Baron Schwartz 是一名软件工程师，他住在弗吉尼亚州的Charlottesville，在网上用的名字是Xaprb，这是他名字的第一部分按QWERTY键盘的顺序打在Dvorak键盘上时显示出来的名字。当他不忙于解决有趣的编程挑战时，Baron就会和他的妻子Lynn、狗Carbon一起享受闲暇时光。他的关于软件工程的博客地址是http://www.xaprb.com/blog。</p><p><br></p><p>Peter Zaitsev，MySQL AB公司高性能组的前任经理，现正运作着mysqlperformanceblog.com 网站。他擅长于帮助管理员为每天有着数以百万计访问量的网站修补漏洞，使用数百台服务器来处理TB级的数据。他常常为了找到一个解决方案而修改和升级软硬件（比如查询优化）。Peter还经常在讨论会上发表演讲。</p><p><br></p><p>Vadim Tkachenko，Percona公司的合伙人，该公司是一家专业的MySQL性能咨询公司。他过去是MySQL AB公司的性能工程师。作为一名在多线程编程和同步领域里的专家，他的主要工作是基准测试、特征分析和找出系统瓶颈。他还在性能监控和调优方面做着一些工作，使MySQL在多个CPU上更具有伸缩性。</p><p><br></p><p>Jeremy D. Zawodny和他的两只猫在1999年底从俄亥俄州的西北部搬到了硅谷，这样他就能为Yahoo！工作了——那时他刚好亲眼见证了.com泡沫的破灭。他在Yahoo！工作了八年半，将MySQL和其他开源技术组合起来使用，找到有趣的、令人兴奋的用途，而它们往往也是很大的用途。</p><p><br></p><p>近段时间，他重新发掘出了对飞行的热爱。其实，早在2003年年初，他就已经取得了私人滑翔机飞行员的执照，2005年获得商业飞行员的定级。从那时起，他花了大量的空闲时间驾驶滑翔机,飞翔在Hollister、加利福尼亚和Tahoe湖地区上空。他偶尔还会驾驶单引擎轻型飞机，和别人共同拥有一架Citabria 7KCAB和一架Cessna 182。临时的咨询工作可以帮助他支付飞行账单。</p><p><br></p><p>Jeremy和他可人的妻子及四只猫生活在加州的旧金山湾区。他的博客地址是jeremy.zawodny.com/blog。</p><p><br></p><p>Arjen Lentz 出生在阿姆斯特丹，但从千禧年以来他和他美丽的女儿Phoebe、黑猫 Figaro一直生活在澳大利亚的Queensland。Arjen最初是C程序员，在MySQL AB公司(2001-2007)里是第25号职员。在2007年短暂的休息之后，Arjen创建了Open Query（http://openquery.com.au），该公司致力于在亚太及临近地区开发和提供数据管理培训和咨询服务。Arjen也经常在讨论会和用户群中发表讲演。在充裕的闲暇时间里，Arjen热衷于烹饪、园艺、阅读、露营，以及研究RepRap。他的博客地址是http://arjen-lentz.livejournal.com。</p><p><br></p><p>Derek J. Balling自1996年以来就一直是Linux系统管理员。他协助Yahoo!那样的公司和Vassar学院那样的机构建立和维护服务器基础设施，也曾为Perl杂志和其他一些在线杂志撰写文章，并一直为LISA（Large Installation System Administration）会议的编程委员会服务。目前，他作为数据中心经理受雇于Answers.com。</p><p><br></p><p>当不做与计算机有关的事情时，Derek喜欢和他的妻子Debbie及他们的动物群（四只猫和一只狗）在一起。在博客http://blog.megacity.org上，他也会对当前热点发出评论或写些近来惹恼他的事情。</p>",
+  "scanNumber": 1,
+  "commentNumber": 1,
+  "onShelfDate": "1755503776753",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "6359eb5ca5f3673044ad9775"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2e0c3e6249cbd2188822a"
+  },
+  "bookTitle": "JavaScript忍者秘籍（第2版）",
+  "bookPic": "/static/uploads/s296890251666837077008409317555048336724783.jpg",
+  "downloadLink": "https://pan.baidu.com/s/12yQzz1V3f2g7U11XYnWw8w?pwd=sk7m",
+  "bookIntro": "<p><strong>内容介绍</strong></p><p><br></p><p>JavaScript语言非常重要，相关的技术图书也很多，但至今市面没有一本对JavaScript语言的最重要部分（函数、闭包和原型）进行深入、全面介绍的图书，也没有一本讲述跨浏览器代码编写的图书。而本书弥补了这一空缺，是由jQuery库创始人编写的一本深入剖析JavaScript语言的书。</p><p><br></p><p>本书共分4个部分，从不同层次讲述了逐步成为JavaScript高手所需的知识。本书从JavaScript语言及最重要的特性谈起，由浅入深地探讨了函数、作用域、闭包、生成器函数、对象、数组、模块化、JavaScript与Web页面的交互以及事件等主题，引导读者更加深入地了解JavaScript的方方面面，充分展示了JavaScript语言的各种特性。本书结合ECMAScript 6和7的相关概念，涵盖了流行的JavaScript框架所使用的技术。</p><p><br></p><p>本书适合具备一定JavaScript基础知识的读者阅读，也适合从事程序设计工作并想要深入探索JavaScript语言的读者阅读。</p><p><br></p><p><strong>作者介绍</strong></p><p><br></p><p>John Resig 是可汗学院（Khan Academy）的一名资深工程师，是jQuery JavaScript库的创建者，也是《JavaScript忍者秘籍（第1版）》和《精通JavaScript》的作者。</p><p><br></p><p>Bear Bibeault 编写软件已经超过30年，刚开始是通过100波特的电传打字机在控制数据网络超级计算机上编写井字程序。Bear有电气工程双学位，本应从事设计天线之类的技术工作，但自从他在数字设备公司从事第一份工作起，他就更着迷于编程。Bear还分别在 Dragon Systems、Works.com、Spredfast、Logitech、Caringo等诸多公司工作过。Bear目前是一名高级前端开发工程师，在一家对象存储软件的领先供应商工作，提供可伸缩性的海量存储和内容保护服务。</p><p><br></p><p>Josip Maras是克罗地亚斯普利特大学电气工程学院、机械工程学院、造船建筑学院的博士后研究员。他获得软件工程博士学位，论文题目是“在Web应用程序开发中实现自动复用”，其中包括使用JavaScript实现的JavaScript解释器。在他的研究中，他已经出版了十多篇科学会议和期刊论文，主要是分析客户端Web应用程序的处理程序。</p>",
+  "scanNumber": 1,
+  "commentNumber": 1,
+  "onShelfDate": "1755504835125",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d7fcc7797638ec96fe2f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2e13ee6249cbd2188823f"
+  },
+  "bookTitle": "CSS权威指南（第三版）",
+  "bookPic": "/static/uploads/s29213141666836738366561617555049561845591.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1BG1XobiqQXNAfoudUVSamg?pwd=kp3m",
+  "bookIntro": "<p>你经常是否既想获得丰富复杂的网页样式，同时又想节省时间和精力？本书为你展示了如何遵循CSS最新规范（CSS2和CSS2.1）将层叠样式表的方方面面应用于实践。</p><p><br></p><p>通过本书提供的诸多示例，你将了解如何做到仅在一处建立样式表就能创建或修改整个网站的外观，以及如何得到HTML力不能及的更丰富的表现效果。</p><p><br></p><p>资深CSS专家Eric A.Meyer。利用他独有的睿智和丰富的经验对属性、标记、标记属性和实现做了深入的研究，另外在浏览器支持和设计原则等实际问题上也有独到的见解。你所需要的就是HTML 4.0的知识即可以为网站布局和分页创建简明而且易于维护的脚本，同时兼具桌面系统的美观性和可控性。在本书中你将学到以下内容：</p><p><br></p><p>·用多种方式对文本应用样式</p><p><br></p><p>·用户界面、表布局、列表和生成内容</p><p><br></p><p>·浮动和定位的优缺点</p><p><br></p><p>·字体系列和后路</p><p><br></p><p>·框模型的工作原理</p><p><br></p><p>·IE7、Firefox和其他浏览器支持的新CSS3选择器</p><p><br></p><p>最新版《CSS权威指南》一书经过全面更新，涵盖了Internet Explorer 7，详细介绍了各个CSS属性以及属性之间的相互作用，并指导你如何避免一些常见的错误。不论你是一位经验丰富的web创作人员，还是一无所知的新手，都可以把它作为内容翔实的CSS参考资料放在手边。Eric A.Meyer。在HTML、CSS和web标准领域是国际上公认的专家，他从1993年就开始从事web方面的工作。他也是complex spiral consulting公司的奠基人，其客户包括美国在线、苹果计算机公司、富国银行和Macromedia等著名公司。</p>",
+  "scanNumber": 4,
+  "commentNumber": 2,
+  "onShelfDate": "1755504958301",
+  "requirePoints": 20,
+  "typeId": {
+    "$oid": "634d7fc47797638ec96fe2ee"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a43e450d5e2d8befeed652"
+  },
+  "bookTitle": "SPA设计与架构：理解单页面Web应用",
+  "bookPic": "/static/uploads/s291639231666836510156801017555943076344265.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1W_xdpadATNuz2ZDhYwapMw?pwd=iws4",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>SPA 开发技术的运用是当今Web 开发领域的热门趋势，但真正全面掌握该技术的开发者并不多。本书详尽阐述单页面Web 应用（SPA）开发技术，从SPA 构建基础入手，通过MV*、模块化编程、路由、模块间通信、服务器端交互等概念的阐述，全面介绍SPA 的设计与架构，帮助读者正确掌握SPA 开发的各方面知识要素。同时，《SPA设计与架构：理解单页面Web应用》中还讨论了SPA 的单元测试及客户端任务自动化，覆盖了从开发到部署的一系列任务，让读者在阅读完《SPA设计与架构：理解单页面Web应用》之后能够打下扎实的SPA 开发基础。</p><p><br></p><p>《SPA设计与架构：理解单页面Web应用》的重点是帮助读者正确、全面地掌握SPA 开发概念，这些概念都是通用的。但为了让内容更全面、具体，《SPA设计与架构：理解单页面Web应用》将通过Knockout、Backbone.js 及AngularJS 这三种不同风格的MV* 框架来进行比较性讨论，这是本书的一大特色。同时在涉及具体MV* 框架知识点时，《SPA设计与架构：理解单页面Web应用》中会提供相应介绍。书中示例丰富具体，并提供完整源代码下载。</p><p><br></p><p>《SPA设计与架构：理解单页面Web应用》适合前端及对SPA 技术感兴趣的开发者阅读。读者只需掌握JavaScript、HTML 和CSS 基本知识，就可以阅读。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>Emmit A. Scott 是一名有17 年Web 应用构建经验的高级软件工程师和架构师。他为教育、银行和通信领域开发过大型应用程序。他的爱好包括阅读（特别喜欢Jim Butcher的小说）、吉他（想当年他可是一位摇滚乐手）以及尽可能多陪陪孩子。</p><p><br></p><p>译者简介</p><p><br></p><p>卢俊祥</p><p><br></p><p>译者，书迷；关注Web 技术趋势，热衷App 开发、Web 开发、数据分析、架构设计以及各类编程语言；陈氏太极拳五十六式爱好者；佛禅人生，缘散缘聚。</p><p><br></p><p>微博：@2gua</p><p><br></p><p>个人网站：http://www.2gua.info/</p><p><br></p><p>知乎专栏：https://zhuanlan.zhihu.com/guagua/</p>",
+  "scanNumber": 0,
+  "commentNumber": 0,
+  "onShelfDate": "1755594309104",
+  "requirePoints": 20,
+  "typeId": {
+    "$oid": "634d7fcc7797638ec96fe2f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a43e9a0d5e2d8befeed65f"
+  },
+  "bookTitle": "Go语言核心编程",
+  "bookPic": "/static/uploads/s298952101666836299622747417555943932538528.jpg",
+  "downloadLink": "https://pan.baidu.com/s/10DtP8d-rG-f5tVKMWaZnpg?pwd=adri",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>《Go语言核心编程》是一本系统介绍Go 语言编程的书籍。首先介绍Go 语言的基础知识，使读者对Go 语言有一个整体的认知。接着围绕Go 语言的三大语言特性：类型系统、接口和并发展开论述，《Go语言核心编程》不单单介绍每个语言特性怎么使用，在章节的最后还对重要语言特性的底层实现原理做了介绍。接着介绍反射这个高级语言特征。此外，《Go语言核心编程》专门用一章的篇幅来介绍Go 语言的陷阱。最后介绍Go 语言的工程实践和编程思想。相信《Go语言核心编程》能够帮助读者快速、深入地了解和学习这门语言。</p><p><br></p><p>《Go语言核心编程》适合各个层次的Go 语言开发者阅读，初学者可以系统地从头学习，有一定的编程经验者可以选择性地阅读本书。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>李文塔，现就职于腾讯，FiT（前身为财付通）支付账户核心DBA，高级工程师。近十年金融系统开发、运维经验，先后参与2016年到2018年微信春节红包项目和支付账户核心多地多活容灾项目。</p><p><br></p><p>2012年开始接触Go语言，是国内较早的Go语言实践者之一。</p>",
+  "scanNumber": 1,
+  "commentNumber": 1,
+  "onShelfDate": "1755594394887",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d81077797638ec96fe30c"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a43f570d5e2d8befeed68c"
+  },
+  "bookTitle": "Spring Boot实战",
+  "bookPic": "/static/uploads/s289836851666073023567872117555945826534635.jpg",
+  "downloadLink": "https://pan.baidu.com/s/161L1JF9E2ZqYWIBCi2du6A?pwd=uunc",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>本书以Spring应用程序开发为中心，全面讲解如何运用Spring Boot提高效率，使应用程序的开发和管理更加轻松有趣。作者行文亲切流畅，以大量示例讲解了Spring Boot在各类情境中的应用，内容涵盖起步依赖、Spring Boot CLI、Groovy、Grails、Actuator。对于Spring Boot开发应用中较为繁琐的内容，附录奉上整理完毕的表格，一目了然，方便读者查阅。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>Craig Walls</p><p><br></p><p>Pivotal高级工程师，Spring Social及Spring Sync项目领导者，著名技术博主，畅销书《Spring实战》作者。他致力于推广Spring框架，笔耕不辍，亦时常作为演讲嘉宾出席各类相关会议。</p><p><br></p><p>译者简介：</p><p><br></p><p>丁雪丰　 资深开发及运维工程师，活跃的技术图书译者，致力于推动优秀技术在国内的发展，出版了《Spring攻略》《MongoDB实战》《RESTful Web Service Cookbook中文版》等6部译著。</p>",
+  "scanNumber": 1,
+  "commentNumber": 1,
+  "onShelfDate": "1755594583885",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634e1b17386eea42f85fad04"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a43fa80d5e2d8befeed69d"
+  },
+  "bookTitle": "你不知道的JavaScript（上卷）",
+  "bookPic": "/static/uploads/s280333721666072351366744317555946633451600.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1FuigwVRgt3qs5EDLcNQsMA?pwd=hg6n",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。</p><p><br></p><p>“你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：“作用域和闭包”以及“this和对象原型”。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>作者简介：</p><p><br></p><p>Kyle Simpson</p><p><br></p><p>推崇开放的互联网，对JavaScript、HTML5、实时/端对端通信和Web性能有深入研究。他是技术书作家、技术培训师、讲师和开源社区的活跃成员。</p><p><br></p><p>译者简介：</p><p><br></p><p>赵望野</p><p><br></p><p>前端工程师，前端基础技术组leader，曾经负责豌豆荚2.0的前端架构设计和主要开发工作，目前负责Front-end Technical Infrastructure的建设。新浪微博@赵望野。负责本书第一部分“作用域和闭包”的翻译。</p><p><br></p><p>梁杰</p><p><br></p><p>北京航空航天大学计算机科学与技术专业大四学生。热爱JavaScript、Python，热爱开源，喜欢做各种各样有趣的事情。负责本书第二部分“this和对象原型”的翻译。</p>",
+  "scanNumber": 1,
+  "commentNumber": 0,
+  "onShelfDate": "1755594664518",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d7fcc7797638ec96fe2f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a440320d5e2d8befeed6bc"
+  },
+  "bookTitle": "React状态管理与同构实战",
+  "bookPic": "/static/uploads/s298357581666836913038279517555948012604748.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1VkclvcuM3vnTxBziiYA9ww?pwd=sjju",
+  "bookIntro": "<p><strong>内容简介</strong></p><p>React自开源以来，便以革命性的设计理念迅速颠覆了前端开发的传统意义，其倡导的组件化、状态管理、虚拟DOM等思想极大提高了前端开发效率。为了更加高效地维护React应用的数据状态，以Redux为代表的数据管理模式横空出世。</p><p><br></p><p>《React状态管理与同构实战》以React技术栈为核心，在介绍React用法的基础上，从源码层面分析了Redux思想，同时着重介绍了服务端渲染和同构应用的架构模式。《React状态管理与同构实战》中包含许多项目实例，不仅为用户打开了React技术栈的大门，更能提升读者对前沿领域的整体认知。《React状态管理与同构实战》主要适合具有一定JavaScript基础的前端工程师，以及对前端开发感兴趣的相关从业人员阅读。</p><p><br></p><p><strong>作者简介</strong></p><p>侯策。硕士毕业于法国国立高等电信学校。曾任职于BePATIENT集团，负责互联网+医疗平台的研发。曾任职于法国能源和苏伊士集团，参与欧洲天然气运输和费用系统的研发。2015年回国加入百度知识搜索部，负责多个产品线的大型技术迭代。行业之外是一名国家二级运动员（足球项目），曾组织过赴北非撒哈拉地区看望孤儿等慈善活动。</p><p><br></p><p>颜海镜。知名技术博主，开源达人，常以歪脖无脸男形象作为头像活跃于各大技术网站，经过多年沉淀，专注Web前端开发，先后任职于金山、百度、美团点评，负责前端开发工作。</p>",
+  "scanNumber": 0,
+  "commentNumber": 0,
+  "onShelfDate": "1755594802498",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d804d7797638ec96fe2fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a4406c0d5e2d8befeed6c9"
+  },
+  "bookTitle": "Vue.js项目开发实战",
+  "bookPic": "/static/uploads/vuexiangmukaifa1666071031880858017555948590205527.png",
+  "downloadLink": "https://pan.baidu.com/s/16SPkiTuo3b5_5Qf4VRqJZQ?pwd=b8fu",
+  "bookIntro": "<p><strong>内容简介</strong></p><p>本书以JavaScript语言为基础，以Vue.js项目开发过程为主线，介绍了一整套面向Vue.js的项目开发技术。从NoSQL数据库的搭建到Express项目API的编写，后再由Vue.js显示在前端的页面中，让读者可以非常迅速地掌握这些技术，提高项目开发的能力。本书分为4篇。第1篇介绍了Vue.js基础环境搭建，是全书的基石；第2篇介绍了电影网站项目的设计，涵盖ES6、Webpack和工程化环境搭建等关键技术；第3篇介绍了电影网站项目的前端和后端的实现，涵盖Node.js后端技术、Vue.js各种组件和API等技术；第4篇介绍了页面优化，通过学习一些Vue.js模板和框架，从而制作更加美观的用户界面（UI）。本书适合Vue.js初学者和进阶者阅读，也适合其他Web前端和后端开发爱好者阅读。对于一些产品经理，本书也同样适合阅读。另外，对于培训机构和各类开设Web开发课程的院校，本书是一本很好的项目开发教程。</p><p><br></p><p><strong>作者简介</strong></p><p>张帆，资深全栈“码农”。有多年的项目设计和Web开发经验，熟悉各种主流前端和后端开发工具，长期从事新技术的研究与项目实践。现专注于JavaScript全栈开发，以及微信小程序和小游戏的开发实践与探索。</p>",
+  "scanNumber": 0,
+  "commentNumber": 0,
+  "onShelfDate": "1755594860109",
+  "requirePoints": 20,
+  "typeId": {
+    "$oid": "634d80417797638ec96fe2f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a440a40d5e2d8befeed6d6"
+  },
+  "bookTitle": "Vue.js 实战",
+  "bookPic": "/static/uploads/s295875451666836599154313517555949154211824.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1jVFJGLiKTu9JrDDbjuJJ4A?pwd=6ukq",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>本书以Vue.js 2为基础，以项目实战的方式来引导读者渐进式学习Vue.js。本书分为基础篇、进阶篇和实战篇三部分。基础篇主要是对 Vue.js 核心功能的介绍；进阶篇主要讲解前端工程化Vue.js的组件化、插件的使用；实战篇着重开发了两个完整的示例，所涉及的内容涵盖Vue.js绝大部分API。通过阅读本书，读者能够掌握Vue.js框架主要API的使用方法、自定义指令、组件开发、单文件组件、Render函数、使用webpack开发可复用的单页面富应用等。</p><p><br></p><p>本书示例丰富、侧重实战，适用于刚接触或即将接触Vue.js的开发者，也适用于对Vue.js有过开发经验，但需要进一步提升的开发者。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>梁灏，网名 Aresn，基于 Vue.js 的开源 UI 组件库 iView 的作者。目前在大数据公司 TalkingData 负责可视化基础架构。创办了程序员社区 TalkingCoder。</p>",
+  "scanNumber": 1,
+  "commentNumber": 0,
+  "onShelfDate": "1755594916687",
+  "requirePoints": 50,
+  "typeId": {
+    "$oid": "634d80417797638ec96fe2f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a440d70d5e2d8befeed6e3"
+  },
+  "bookTitle": "深入浅出Vue.js",
+  "bookPic": "/static/uploads/s314718821666836681616752217555949667207086.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1itja0x42AUpbwlbODaLCcw?pwd=yygp",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>本书从源码层面分析了Vue.js。首先，简要介绍了Vue.js；然后详细讲解了其内部核心技术“变化侦测”，这里带领大家从0到1实现一个简单的“变化侦测”系统；接着详细介绍了虚拟DOM技术，其中包括虚拟DOM的原理及其patching算法；紧接着详细讨论了模板编译技术，其中包括模板解析器的实现原理、优化器的原理以及代码生成器的原理；最后详细介绍了其整体架构以及提供给我们使用的各种API的内部原理，同时还介绍了生命周期、错误处理、指令系统与模板过滤器等功能的原理。</p><p><br></p><p>本书适合前端开发人员阅读。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>刘博文</p><p><br></p><p>网名Berwin，95后，从事Web前端工作5年，2015年加入360奇舞团，现任360导航事业部资深前端工程师，负责360导航首页及二级页创新项目等亿级PV站点的设计与优化，推动Vue.js成为部门内广泛使用的核心技术栈，独立研发相关开发工具与技术解决方案并使之成功落地。</p>",
+  "scanNumber": 1,
+  "commentNumber": 0,
+  "onShelfDate": "1755594967596",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d80417797638ec96fe2f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a441140d5e2d8befeed6f3"
+  },
+  "bookTitle": "图解CSS3",
+  "bookPic": "/static/uploads/s273192261666837693701999617555950278281983.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1sFzPZXuXqJSf1U1fj-pyUw?pwd=mmuw",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>本书是CSS3领域的标准性著作，由资深Web前端工程师根据CSS3的最新技术标准撰写。内容极为全面、丰富和翔实，由浅入深地讲解了CSS3新特性的语法、功能和使用技巧，涵盖选择器、边框、背景、文本、颜色、UI、动画、新型盒模型、媒体查询、响应式设计等各种模块；写作方式创新，有趣且易懂，用图解的方式来描述CSS3的每一个特性甚至每一个步骤都配有实战效果图；包含大量案例，实战性强，每个特性都有作者从实践中精心归纳和挑选出来的案例辅助讲解，同时还包含一个综合性的大案例。无论你是完全没有经验的准前端工程师，还是已经有一定经验的前端工程师，如果你想系统学习CSS3，那么本书将会是你的最佳选择；如果你是一位成熟的前端开发工程师，但时常为如何合理地使用某些特性而费时去查阅相关资料，那么本书也是你的不二选择。</p><p><br></p><p><strong>作者简介</strong></p><p>廖伟华（网名：大漠）， 资深Web前端工程师，W3cplus创始人，目前就职于Ctrip UED。中国Drupal社区核心成员之一。对HTML5、CSS3、XHTML和Sass等前端脚本语言有非常深入的认识和丰富的实践经验，尤其专注对CSS3的研究，是国内最早研究和使用CSS3技术的一批人。现在还关注Web产品策划、交互设计、SEO以及移动端开发。2012年4月刊的《程序员》杂志上发表文章“Twitter Bootstrap：前端框架利器”。</p>",
+  "scanNumber": 8,
+  "commentNumber": 2,
+  "onShelfDate": "1755595028775",
+  "requirePoints": 20,
+  "typeId": {
+    "$oid": "634d7fc47797638ec96fe2ee"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a44bf30d5e2d8befeedcc8"
+  },
+  "bookTitle": "你不知道的JavaScript（下卷）",
+  "bookPic": "/static/uploads/4e4a20a4462309f79052ae799f461bf3d7ca7bcb780d17555978055771929.webp",
+  "downloadLink": "https://pan.baidu.com/s/1FuigwVRgt3qs5EDLcNQsMA?pwd=hg6n",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。</p><p><br></p><p>“你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：“作用域和闭包”以及“this和对象原型”。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>作者简介：</p><p><br></p><p>Kyle Simpson</p><p><br></p><p>推崇开放的互联网，对JavaScript、HTML5、实时/端对端通信和Web性能有深入研究。他是技术书作家、技术培训师、讲师和开源社区的活跃成员。</p><p><br></p><p>译者简介：</p><p><br></p><p>赵望野</p><p><br></p><p>前端工程师，前端基础技术组leader，曾经负责豌豆荚2.0的前端架构设计和主要开发工作，目前负责Front-end Technical Infrastructure的建设。新浪微博@赵望野。负责本书第一部分“作用域和闭包”的翻译。</p><p><br></p><p>梁杰</p><p><br></p><p>北京航空航天大学计算机科学与技术专业大四学生。热爱JavaScript、Python，热爱开源，喜欢做各种各样有趣的事情。负责本书第二部分“this和对象原型”的翻译。</p>",
+  "scanNumber": 6,
+  "commentNumber": 3,
+  "onShelfDate": "1755597811007",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d7fcc7797638ec96fe2f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a44ee10d5e2d8befeeddcd"
+  },
+  "bookTitle": "JavaScript设计模式与开发实践",
+  "bookPic": "/static/uploads/s28065006166683686924171451755594726948677917555985602317110.jpg",
+  "downloadLink": "https://pan.baidu.com/s/1NnbSNihx2zZ-YZZsYaxRZQ?pwd=5f9g",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>本书在尊重《设计模式》原意的同时，针对JavaScript语言特性全面介绍了更适合JavaScript程序员的了16个常用的设计模式，讲解了JavaScript面向对象和函数式编程方面的基础知识，介绍了面向对象的设计原则及其在设计模式中的体现，还分享了面向对象编程技巧和日常开发中的代码重构。本书将教会你如何把经典的设计模式应用到JavaScript语言中，编写出优美高效、结构化和可维护的代码。</p><p><br></p><p><strong>作者简介</strong></p><p><br></p><p>曾探</p><p><br></p><p>2007年毕业于吉林大学软件学院。就职于国内知名前端团队腾讯AlloyTeam，高级工程师。</p><p><br></p><p>曾参与Web QQ、QQ群、Q+开发者网站、微云、QQ兴趣部落等大型前端项目的开发。有过Java、Python和JavaScript的开发经验，业余作品有HTML5版街头霸王等。</p><p><br></p><p>平时喜欢电影和音乐，业务时间也是一名健身教练。</p>",
+  "scanNumber": 1,
+  "commentNumber": 1,
+  "onShelfDate": "1755598561511",
+  "requirePoints": 30,
+  "typeId": {
+    "$oid": "634d7fcc7797638ec96fe2f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a5347938459937d6576855"
+  },
+  "bookTitle": "细说PHP",
+  "bookPic": "/static/uploads/s6080118166607336015089201755594468495802217556573203514356.jpg",
+  "downloadLink": "https://pan.baidu.com/share/init?surl=3PybI4k2uHN3etqNuU3Qdw&pwd=mjej",
+  "bookIntro": "<p><strong>内容简介</strong></p><p><br></p><p>《细说PHP》开发Web应用程序PHP是最理想的工具，易于使用、功能强大、成本低廉、高安全性、开发速度快且执行灵活。《细说PHP》以实用为目标设计，包含PHP开发最主流的各项技术，对每一个知识点都进行了深入详细的讲解，并附有大量的实例代码，图文并茂。系统地介绍了PHP的相关技术及其在实际Web开发中的应用。</p><p><br></p><p>《细说PHP》共17章，每一章都是PHP独立知识点的总结。内容涵盖了PHP的运行环境搭建、Web服务器Apache的配置与应用、动态网站开发的前台技术、PHP编程语言的语法、PHP的常用功能模块和实用技巧、MySQL数据库的设计与应用、PHP 5面向对象的程序设计思想、Web开发的设计模式，以及包含DIV+CSS、mysqli扩展模块、数据库抽象层PDO、Smarty模板技术等目前PHP开发中最主流的技术。每一章中都有大量的实用示例，以及详尽的注释，加速读者的理解和学习，也为每章的技术点设置了大量的自测试题。最后以一个比较完整的、采用面向对象思想，以及通过MVC模式设计，并结合Smarty模板的CMS系统为案例，详细介绍了Web系统开发从设计到部署的各个细节，更好地进行开发实践。</p>",
+  "scanNumber": 2,
+  "commentNumber": 0,
+  "onShelfDate": "1755657337803",
+  "requirePoints": 40,
+  "typeId": {
+    "$oid": "634e431a2fac4881713db242"
+  }
+}]
