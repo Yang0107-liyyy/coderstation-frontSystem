@@ -1,71 +1,75 @@
-# Getting Started with Create React App
+<h2 align="center">
+coderstation-frontSystem(前台系统)
+</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📰 介绍
 
-## Available Scripts
+一个现代化的技术学习社区前端系统，为程序员提供技术问答、书籍推荐、面试准备等一站式学习平台。
 
-In the project directory, you can run:
+## 🌟 项目特色
 
-### `npm start`
+### 技术亮点
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔧 现代化技术栈: React + Redux Toolkit + React Router
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔩 企业级UI组件: Ant Design
 
-### `npm test`
+🔑 路由权限控制: 基于路由守卫的页面访问权限管理
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+⌨ 富文本编辑: 集成 Toast UI Editor 支持 Markdown 编辑
 
-### `npm run build`
+### 功能特色
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🚀 多维度技术内容管理（问题、书籍、面试题）
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🔍 智能搜索和个性化推荐系统
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👥 完整的用户认证和个人中心
 
-### `npm run eject`
+💬 实时评论互动和讨论功能
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🏗️ 项目结构
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+├── config/               # 构建配置
+├── data/                 # 原始数据
+├── public/               # 静态资源
+├── scripts/              # 构建脚本
+├── src/
+│   ├── api/              # API接口层
+│   ├── components/       # 通用组件
+│   ├── css/              # 局部样式
+│   ├── fonts/            # 字体图标
+│   ├── pages/            # 页面组件
+│   ├── redux/            # 状态管理
+│   ├── router/           # 路由配置
+│   ├── utils/            # 工具函数
+│   ├── App.jsx           # 根组件
+│   ├── index.css         # 全局样式
+│   ├── index.js          # 应用入口
+│   └── setupProxy.js     # 开发环境代理配置
+└── package.json          # 项目依赖
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 快速开始
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+git clone https://github.com/Yang0107-liyyy/coderstation-frontSystem.git
+cd coderstation-frontSystem
+npm install
+npm start
+```
 
-## Learn More
+### 构建
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm run build
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📞 联系方式
 
-### Code Splitting
+项目作者：Lillian
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+项目地址：https://github.com/Yang0107-liyyy/coderstation-frontSystem
 
-### Analyzing the Bundle Size
+在线演示：http://103.145.107.108:13001
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
