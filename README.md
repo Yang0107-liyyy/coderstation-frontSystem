@@ -30,6 +30,7 @@ coderstation-frontSystem(前台系统)
 
 ## 🏗️ 项目结构
 
+```bash
 ├── config/               # 构建配置
 ├── data/                 # 原始数据
 ├── public/               # 静态资源
@@ -48,10 +49,11 @@ coderstation-frontSystem(前台系统)
 │   ├── index.js          # 应用入口
 │   └── setupProxy.js     # 开发环境代理配置
 └── package.json          # 项目依赖
+```
 
 ## 🚀 快速开始
 
-```
+```bash
 git clone https://github.com/Yang0107-liyyy/coderstation-frontSystem.git
 cd coderstation-frontSystem
 npm install
@@ -60,7 +62,7 @@ npm start
 
 ### 构建
 
-```
+```bash
 npm run build
 ```
 
