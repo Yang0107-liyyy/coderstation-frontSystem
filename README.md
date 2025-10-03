@@ -6,9 +6,7 @@ coderstation-frontSystem(前台系统)
 
 一个现代化的技术学习社区前端系统，为程序员提供技术问答、书籍推荐、面试准备等一站式学习平台。
 
-## 🌟 项目特色
-
-### 技术亮点
+## 🌟 技术亮点
 
 🔧 现代化技术栈: React + Redux Toolkit + React Router
 
@@ -17,16 +15,6 @@ coderstation-frontSystem(前台系统)
 🔑 路由权限控制: 基于路由守卫的页面访问权限管理
 
 ⌨ 富文本编辑: 集成 Toast UI Editor 支持 Markdown 编辑
-
-### 功能特色
-
-🚀 多维度技术内容管理（问题、书籍、面试题）
-
-🔍 智能搜索和个性化推荐系统
-
-👥 完整的用户认证和个人中心
-
-💬 实时评论互动和讨论功能
 
 ## 🏗️ 项目结构
 
@@ -65,13 +53,3 @@ npm start
 ```bash
 npm run build
 ```
-
-## 📞 联系方式
-
-项目作者：Lillian
-
-项目地址：https://github.com/Yang0107-liyyy/coderstation-frontSystem
-
-在线演示：http://103.145.107.108:13001
-
-
